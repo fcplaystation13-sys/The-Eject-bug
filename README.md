@@ -6,7 +6,7 @@ It survives updates, rebootes and more.
 
 It works on higher FWs
 
-It tricks the PS5 UI into thinking any app is a disc game. (Maybe if it is redirected it could force debug setting to show and work)
+It tricks the PS5 UI into thinking any app is a disc game like the Playstation store and YTs. (Maybe if it is redirected it could force debug setting to show and work)
 
 It might have potential.
 
