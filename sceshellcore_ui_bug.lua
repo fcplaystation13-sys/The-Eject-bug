@@ -62,7 +62,7 @@ local function execute_bucket_shift()
     report = report .. "[!] ACTION REQUIRED:\n"
     report = report .. "1. Close this screen.\n"
     report = report .. "2. Press the PS Button to open the Quick Menu.\n"
-    report = report .. "3. DO NOT go to Discover/Tips. Interact ONLY with Native icons (Power, Mic, Notifications).\n"
+    report = report .. "3. Go to the home screen then select options on any app ,(you may need to run it many times)"
 
     error(report)
 end
