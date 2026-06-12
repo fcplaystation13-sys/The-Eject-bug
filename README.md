@@ -1,5 +1,5 @@
 # The-Eject-bug
-The Eject bug i found on the PS5, i have only found this permanent bug i have barely any knowledge about it yet.
+The Eject bug i found on the PS5,
 What i do know: 
 
 It survives updates, rebootes and more.
